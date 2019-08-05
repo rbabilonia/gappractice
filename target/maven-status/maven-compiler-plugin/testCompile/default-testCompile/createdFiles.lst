@@ -1,0 +1,3 @@
+com\gap\exercise\pageobjects\vacationPageObjects.class
+com\gap\exercise\steps\vacationSteps.class
+com\gap\exercise\suites\vacationSuiteCreateNewUser.class
